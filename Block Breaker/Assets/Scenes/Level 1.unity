@@ -1063,6 +1063,11 @@ PrefabInstance:
       propertyPath: paddle
       value: 
       objectReference: {fileID: 100860006}
+    - target: {fileID: 4567582234650529508, guid: a8cb9150eaeecc447b66ba5e72a21a8b,
+        type: 3}
+      propertyPath: randomFactor
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8cb9150eaeecc447b66ba5e72a21a8b, type: 3}
 --- !u!1001 &5413563210735016422
@@ -1269,6 +1274,10 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1468723719, guid: 130799319ce95734cba8e731f13bddad, type: 3}
+      propertyPath: isAutoPlayEnabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 130799319ce95734cba8e731f13bddad, type: 3}
